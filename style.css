@@ -1,0 +1,218 @@
+body{
+    background-image: url(images/_Background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+        
+}
+header {
+    margin-top: 30px;
+}
+.nav>li>a {
+    margin-right: 30px;
+    padding-left: 0;
+}
+.nav {
+    text-align: left;
+    text-transform: uppercase;
+    
+}
+.nav a {
+    color: #000;
+}
+
+.panel-right {
+    position: absolute;
+    top:0;
+    right:0;
+    width:40px;
+    height:300px;
+    z-index:3;
+        
+}
+
+.panel-right-inner {
+    position:relative;
+    width:100%;
+    height:100%;
+        
+}
+
+.panel-right-inner span {
+    transform: rotate(-90deg);
+    position: absolute;
+    top: 255px;
+    left: 0;
+    white-space: nowrap;
+    transform-origin: top left;
+    display: block;
+    letter-spacing: 5px;
+}
+
+.panel-right-icons {
+    padding-top:635px;
+}
+.panel-right-icons i {
+    display: block;
+    padding-bottom: 10px;
+}
+
+.hero-left {
+    position:relative;
+}
+
+.content-left-hero {
+    position: absolute;
+    left: 0%;
+    top: 55px;
+    line-height: 1;
+    width: 360px;
+    z-index: 3;
+    transform: translate(15px,70%);
+}
+.content-left-hero h1 {
+    font-size: 40px;
+}
+.content-left-hero a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #a1a1a1;
+}
+.quote {
+    margin-top: 100px;
+}
+.about-surfing {
+    text-align: center;
+    
+}
+
+.somesection{
+    margin-top: 170px;
+     
+}
+.media-img-right img {
+    width:706px;
+    height: 549px;
+    padding: 25px;
+    position: absolute;
+    top: -400px;
+    left: 85px;
+}
+.media-img-left img{
+    position: relative;
+    left: 10px;
+}
+.media-content  {
+    padding-left: 80px;
+    padding-top: 50px;
+    text-align: center;
+}
+.carusel-board {
+    margin-top: 100px;
+}
+img-1 {
+    position: relative
+}
+.board-1-content {
+    position: absolute;
+    left: 220px;
+    bottom: 200px;
+}
+.board-2-content {
+    position: absolute;
+    left: 220px;
+    bottom: 200px;
+}
+.board-3-content {
+    position: absolute;
+    left: 220px;
+    bottom: 200px;
+}
+.article-1 {
+    padding-top: 20px;
+    padding-right: 30px;
+    line-height: 2;
+    
+}
+.article-1 a {
+    line-height: 10;
+}
+.article-1 p {
+    margin-top: 50px;
+}
+.art-2-content {
+    margin-top: 100px;
+    position: relative;
+}
+.art-2-img img {
+    float: right;
+    padding-right: 150px;
+}
+.article-2 {
+    text-align: left;
+    padding-right: 150px;
+    position: absolute;
+    right: 100px;
+    top: 50px;
+    
+}
+.article-2 p {
+    padding-top: 50px;
+    line-height: 1.8;
+}
+.article-2 a {
+    line-height: 10;
+    text-decoration: underline;
+}
+.text-under-shop {
+    text-align: center;
+    margin-bottom: 100px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    letter-spacing: 1px;
+}
+.subscribe {
+    text-align: center;
+}
+.content-subs {
+    margin-top: 50px;
+}
+.btn {
+    text-align: center;
+}
+
+.input-group{
+    width: 500px;
+    margin-left: 325px;
+}
+.contact{
+    margin-top: 100px;
+}
+.content-contact {
+    padding-top: 200px;
+}
+.content-contact h3 {
+    padding-left: 200px;
+}
+.content-contact a{
+    padding-left: 150px;
+    line-height: 10;
+    text-decoration: underline;
+}
+.footer {
+    text-align: center;
+    margin-top: 70px;
+}
+.down-nav {
+    margin-left: 500px;
+    margin-top: 30px;
+}
+.social-icons {
+    margin-top: 30px;
+}
+.social-icons i {
+    padding: 0 20px;
+    font-size: 20px;
+}
+
+
